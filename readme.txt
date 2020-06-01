@@ -1,1 +1,1 @@
-this is a readme file that i commit to GitHub
+this is a readmetxt file that i commit to Github repository 
